@@ -1,6 +1,9 @@
 annotated-types==0.7.0
 anyio==4.10.0
+click==8.2.1
+colorama==0.4.6
 fastapi==0.116.1
+h11==0.16.0
 idna==3.10
 joblib==1.5.1
 numpy==2.3.2
@@ -15,3 +18,4 @@ starlette==0.47.2
 typing-inspection==0.4.1
 typing_extensions==4.14.1
 tzdata==2025.2
+uvicorn==0.35.0
